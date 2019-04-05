@@ -120,6 +120,21 @@ rpcallowip=127.0.0.1
 listen=1
 server=1
 daemon=1
+addnode=149.28.12.234 
+addnode=207.148.1.69
+addnode=45.76.50.21
+addnode=45.32.31.189
+
+addnode=144.202.88.79
+addnode=157.230.139.197
+addnode=138.68.29.129
+addnode=206.189.194.58
+addnode=202.182.101.98
+addnode=139.180.136.147
+addnode=207.148.70.241
+addnode=144.202.80.206
+addnode=149.28.9.237
+addnode=180.71.89.175
  
 
 EOF
